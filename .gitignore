@@ -1,0 +1,9 @@
+#Project folders
+outfiles/
+runout/
+unused/
+
+#Compiler outputs
+*.o
+*~
+*#
