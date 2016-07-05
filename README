@@ -43,6 +43,10 @@ The hbook file is saved in:
     worksim/infile_name.rzdat
 
 
+The example directory contains an example hbook file and a run out file. One can use these to compare the 
+results they get when using the example files givein in the infile folder.
+
+
 To convert mc_hms_single to be used for another spectrometer, you will need to do the following:
 
   1. Change the hSTOP.* variables to match the struct_<spec>.inc structure found inside hms_simc/ folder
@@ -63,6 +67,9 @@ Do
  infiles/18deg_carbon_5100.inp                                                  
 ..
 ..
+
+
+
 
 
 NTUPLE VARIABLES:
